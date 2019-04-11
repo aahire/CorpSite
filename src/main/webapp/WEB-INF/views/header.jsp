@@ -36,7 +36,7 @@
                                     <a href="/about">About</a>
                                 </li>
                                 <li>
-                                    <a href="/about">Dreams </a>
+                                    <a href="/about">Dreamer</a>
                                 </li>  
                                 <li>
                                     <a href="#">
